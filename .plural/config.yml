@@ -1,0 +1,10 @@
+apiVersion: platform.plural.sh/v1alpha1
+kind: Config
+metadata: null
+spec:
+  email: luca.laborde@gmail.com
+  token: plrl-84Gj6ztOKOh8WcSEEFD2_K-155tFBaSd8rG5wxtDcOS4Z9wmr847vbd4PFHwEAnZ_rkt-5yx0QIOkTjcMfmFeQ==
+  namespacePrefix: ""
+  endpoint: ""
+  lockProfile: ""
+  reportErrors: false
